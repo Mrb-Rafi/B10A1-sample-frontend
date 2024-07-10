@@ -331,3 +331,32 @@ iframe {
     letter-spacing: 0%;
     text-align: center;
 }
+
+/* footer */
+
+.footer {
+    height: 100px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    display: flex;
+    justify-content: center;
+}
+
+.footer-content {
+    width: 1140px;
+    height: 36px;
+    padding-top: 36px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-text {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+}
+
+.social-logos {
+    height: 30px;
+}
