@@ -187,3 +187,16 @@
     display: flex;
     justify-content: center;
 }
+
+/* ctarget */
+
+.ctarget-title-container {
+    margin-top: 150px;
+}
+
+.ctarget-desc-container {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
