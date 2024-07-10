@@ -24,6 +24,19 @@
     color: rgba(13, 19, 33, 0.7);
 }
 
+.desc-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.section-heading {
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+}
+
 /* banner styles */
 
 .banner {
@@ -62,9 +75,6 @@
 
 .banner-desc {
     width: 850px;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
 }
 
 .banner-btn-container {
@@ -83,4 +93,45 @@
     font-size: 15px;
     font-weight: 600;
     line-height: 23px;
+}
+
+/* webdev styles */
+
+.webdev-title {
+    margin-top: 155px;
+}
+
+.webdev-desc-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.webdev-desc {
+    width: 850px;
+}
+
+.webdev-cards-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.webdev-card {
+    width: 945px;
+    height: 335px;
+    padding: 48px;
+}
+
+.card-header {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.webdev-card img {
+    width: 260px;
 }
