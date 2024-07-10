@@ -188,6 +188,10 @@
     justify-content: center;
 }
 
+iframe {
+    border-radius: 16px;
+}
+
 /* ctarget */
 
 .ctarget-title-container {
@@ -199,4 +203,13 @@
     margin-bottom: 50px;
     display: flex;
     justify-content: center;
+}
+
+.ctarget-cards {
+    display: flex;
+}
+
+.ctarget-card-img {
+    width: 40px;
+    height: 55px;
 }
