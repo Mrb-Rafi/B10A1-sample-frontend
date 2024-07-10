@@ -4,7 +4,7 @@ Section No -- Priority -- Status
 
 1. nav -- optional --
 2. hero/banner -- mandatory -- completed
-3. linking same page "contact" section to the "contact with me button" from the banner -- extra challenge --
+3. linking same page "contact" section to the "contact with me button" from the banner -- extra challenge (instructions here: https://www.geeksforgeeks.org/how-to-create-links-to-sections-within-the-same-page-in-html/) --
 4. "why web dev" with three sections -- mandatory --
 5. "my inspiration" with the embedded video -- mandatory --
 6. "my current target" with three cards -- mandatory --
