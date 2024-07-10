@@ -3,7 +3,7 @@ This is a repo for Programming Hero Batch 10, Assignment 1. We need to build a f
 Section No -- Priority -- Status
 
 1. nav -- optional --
-2. hero/banner -- mandatory --
+2. hero/banner -- mandatory -- completed
 3. linking same page "contact" section to the "contact with me button" from the banner -- extra challenge --
 4. "why web dev" with three sections -- mandatory --
 5. "my inspiration" with the embedded video -- mandatory --
