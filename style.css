@@ -96,7 +96,7 @@
     line-height: 23px;
 }
 
-/* webdev styles */
+/* whywebdev styles */
 
 .whywebdev {
     margin: 80px 100px;
@@ -260,4 +260,66 @@ iframe {
 
 .learn-more {
     margin-top: 25px;
+}
+
+/* contact form */
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.contact {
+    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+    background-image: url(assets/handshake.jpg);
+    width: 1140px;
+    height: 315px;
+    border-radius: 16px;
+    
+    background-size: cover;
+    background-position: center center;
+}
+
+.contact-content {
+    padding: 65px 50px;
+}
+
+.contact-title {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+}
+
+.contact-desc {
+    color: rgb(255, 255, 255);
+    opacity: 0.7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+
+.contact-textbox {
+    width: 550px;
+    height: 60px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+}
+
+.feedback-button {
+    width: 120px;
+    height: 60px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: center;
 }
