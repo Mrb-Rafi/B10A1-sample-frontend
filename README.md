@@ -1,5 +1,7 @@
 This is a repo for Programming Hero Batch 10, Assignment 1. We need to build a frontent from the given figma design. The instructions can be found in this repo: https://github.com/ProgrammingHero1/B10A1-Challenge-Begins
 
+My browser's window is 1520px when full screen, I designed this accordingly. This assignment is not responsive.
+
 Section No -- Priority -- Status
 
 1. nav -- optional -- skipped
